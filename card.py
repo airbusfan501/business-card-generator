@@ -1,3 +1,4 @@
+# DEVELOPED BY AIRBUSFAN501. WORK OF AIRBUSFAN501.
 from PIL import Image, ImageDraw, ImageFont
 
 # User Input/Variables
